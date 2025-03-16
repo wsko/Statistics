@@ -1,0 +1,9 @@
+Rule_ID,Rule_Text
+RULE01,Medical expenses exceeding 7.5% of income may be deductible.
+RULE02,Office supplies are fully deductible when used for business purposes.
+RULE03,"Travel expenses, including airfare and lodging, are deductible if they are business-related."
+RULE04,"Meals are generally 50% deductible, except for special circumstances."
+RULE05,Rent expenses for business premises are fully deductible.
+RULE06,Utilities expenses can be deducted as business operating costs.
+RULE07,Entertainment expenses are subject to a 50% deduction limit.
+RULE08,Miscellaneous expenses must be directly related to business activities to be deductible.
