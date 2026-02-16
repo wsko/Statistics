@@ -7,3 +7,9 @@ RULE05,Rent expenses for business premises are fully deductible.
 RULE06,Utilities expenses can be deducted as business operating costs.
 RULE07,Entertainment expenses are subject to a 50% deduction limit.
 RULE08,Miscellaneous expenses must be directly related to business activities to be deductible.
+RULE09,Payments to independent contractors (contract labor) are fully deductible as business expenses.
+RULE10,"Advertising and marketing costs, including digital ads and printed materials, are fully deductible."
+RULE11,"Business insurance premiums, such as liability or property coverage, are fully deductible."
+RULE12,"Fees for professional services, such as legal or accounting, are deductible as business expenses."
+RULE13,Software purchases and cloud-based subscriptions used for business are deductible.
+RULE14,"Bank fees, transaction charges, and interest on business loans are deductible business expenses."
